@@ -63,6 +63,9 @@ input:focus {
 }
 
 @media only screen and (max-width:600px) {
+    body {
+        overflow: hidden;
+    }
     .container {
         font-size: 14px;
     }
